@@ -1,0 +1,62 @@
+p{color:pink;}
+
+.grisote{
+	color:gray;
+	border:dotted; 
+	text-align: center;
+	margin: auto;
+	display: block;
+	border-style: solid;
+	border-color: blue;
+	font-variant: small-caps; 
+
+}
+.bonito{
+	color: purple;
+	border:medium; 
+	border-right: 200px;
+	border-left: 21px;
+	border-top: 25px;
+	border-bottom: 26px;
+	border-style: solid;
+	border-color: blue;
+	
+
+}
+.cogollito{
+	opacity: 0.5;
+ padding-top: 40px;
+  padding-right: 25px;
+  padding-bottom: 40px;
+  padding-left: 25px;
+  border-spacing: font; 
+  border:double; 
+
+}
+
+.hola{
+text-decoration: underline;
+ text-transform: uppercase;
+ letter-spacing: 10px;
+ line-height: 1;
+ word-spacing: 10px;
+}
+
+.adios{
+
+white-space:nowrap;
+width: auto;
+border: 1px solid purple;
+height: 150px;
+overflow: hidden;
+text-overflow: ellipsis;
+
+
+
+
+
+
+
+
+
+}
