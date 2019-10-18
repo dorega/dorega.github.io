@@ -1,0 +1,76 @@
+body {
+	font-family: "Times New Roman", serif;
+	background-color: orchid; }
+
+h3 {
+text-align: center;
+font-size: 50px;
+color: #5B2C6F  ;
+}
+
+input[type=text], select{
+  width: 30%;
+  color:  #E74C3C;
+  background-color: #F4D03F;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 50px;
+  box-sizing: border-box;
+}
+
+
+input[type=password],select {
+  width: 30%;
+    color:  #E74C3C;
+    background-color: #F4D03F;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 50px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #FFA07A;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 40px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color:#2ECC71;
+  }
+
+  input[type=reset]{
+  width: 100%;
+  background-color: #2ECC71;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 40px;
+  cursor: pointer;
+}
+
+input[type=reset]:hover {
+  background-color:#FFA07A;
+}
+
+input[type=file] {
+  width: 100%;
+   background-color: #E74C3C;
+  color: white;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px none;
+  border-radius: 50px;
+  box-sizing: border-box;
+}
