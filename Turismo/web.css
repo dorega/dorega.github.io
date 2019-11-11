@@ -1,0 +1,66 @@
+.titulin{
+  color: red;
+  text-align: center;
+  font-family: calibri;
+  font-size: 70px;
+}
+*{
+	background-color: lightblue;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.tabla1{
+	overflow-x:auto;
+	border-style: dotted;
+	margin: auto;
+}
+
+.imagenes{
+	width: 200px;
+	height: 200px;
+
+}
+.alinear{
+	text-align: center;	
+}
+.alinear1{
+	text-align: center;	
+	padding-bottom: 0px;
+	font-family: calibri;
+	font-size: 50px;
+}
+.favorito{
+	text-align: center;	
+	padding-top: 0px;
+}
+
+.tabla2{
+
+	overflow-x:auto;
+	border-style: double;
+	margin: auto;
+	display:block;
+}
+
+.video{
+	margin: auto;
+	display:block;
+	text-align: center;
+}
+
+
+.centro{
+	text-align: center;
+
+}
+
+
+
+.anuncio{
+	font-family: calibri;
+	text-align: center;
+	font-size: 50px
+
+}

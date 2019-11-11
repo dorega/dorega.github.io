@@ -1,0 +1,58 @@
+.escudos{
+	width: 150px;
+	height: 200px;
+
+}
+*{
+	font-family: calibri;
+}
+body{
+	background-color: #144ADF;
+}
+.imagenes{
+	height: 350px;
+	width: 400px;
+	float: left;
+	clear: both;
+}
+.titulin{
+	text-align: center;
+	font-size: 100px;
+	
+}
+.titulo2{
+	text-align: center;
+	font-size: 60px;
+}
+.titulo3{
+	font-size: 45px;
+	padding-left: 120px;
+}
+.texto{
+	font-size: 30px;
+	padding-left: 120px;
+	padding-right: 120px;
+
+}
+
+.tabla{
+	overflow-x: auto;
+	border: 20px solid #045F22;
+	border-radius: 50px;
+	background-color: #13B84A;
+	padding:40px;
+	margin: 200px;
+
+}
+
+
+
+.tabla2{
+	overflow-x: auto;
+	border: 20px solid #045F22;
+	border-radius: 50px;
+	background-color: #13B84A;
+	padding: 20px;
+	margin: auto;
+	font-size: 30px;
+}
