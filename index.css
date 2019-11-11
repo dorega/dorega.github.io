@@ -1,0 +1,27 @@
+.titulo{
+	text-align: center;
+	font-family: calibri;
+	font-size: 100px;
+}
+
+.textito{
+	text-align: center;
+	font-family: calibri;
+	font-size: 50px;
+
+}
+.titulin{
+	text-align: center;
+	font-family: calibri;
+	font-size: 50px;
+}
+
+.lista{
+	text-align: center;
+	font-family: calibri;
+	font-size: 30px;
+
+}
+body{
+	background-color: #B40404;
+}
